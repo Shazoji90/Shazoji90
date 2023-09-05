@@ -3,9 +3,9 @@
 
 Talking about Personal Stuffs:
 
-- 🔭 I’m currently working as a fullstack web developer
-- 🌱 I’m currently learning Laravel and Reactjs
-- 👯 I’m looking to collaborate on [Camakara's Project](https://www.camakara.com/)
+- 🔭 I’m currently working as a freelancer
+- 🌱 I’m learning Laravel, Reactjs and RESTFul API
+- 👯 I’m collaborating on [Camakara's Project](https://www.camakara.com/)
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: `sasongko` `dot` `firman90` `at` `gmail` `dot` `com`
 - 😄 Pronouns: he/him
