@@ -1,5 +1,7 @@
 
-### Hi! Nice to see you 👋
+## Hi! Nice to see you 👋
+
+<p align="center"><a href="#" target="_blank"><img src="https://media.tenor.com/lNtmoshuUI8AAAAj/bahroo-hacker.gif" width="158" alt="Laravel Logo"></a></p>
 
 Talking about Personal Stuffs:
 
@@ -11,7 +13,7 @@ Talking about Personal Stuffs:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My blood type is Alien's 👽
 
-###Languages and Tools:
+## Languages and Tools:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,7 +21,7 @@ Talking about Personal Stuffs:
   </a>
 </p>
 
-### and here is my stats
+## and here is my stats
 <p align="center"><img src="https://www.codewars.com/users/Shazoji90/badges/large"/><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=Shazoji90&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shazoji90&theme=monokai"/>
