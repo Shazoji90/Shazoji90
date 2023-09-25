@@ -7,9 +7,7 @@ Talking about Personal Stuffs:
 
 - 🔭 I’m currently working as a freelancer
 - 🌱 I’m learning Laravel, Reactjs and RESTFul API
-- 👯 I’m collaborating on [Camakara's Project](https://www.camakara.com/)
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: `sasongko` `dot` `firman90` `at` `gmail` `dot` `com`
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My blood type is Alien's 👽
 
